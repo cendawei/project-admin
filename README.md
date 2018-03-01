@@ -1,4 +1,4 @@
-### cdroom-admin 
+### project-admin 
 - web全栈框架
 - js模块化开发，支持模块懒加载
 - 支持es6开发
@@ -17,9 +17,7 @@
 ### 运行项目
 > `npm run start`
 ### 项目部署
-> 服务启动：`npm run server` 前端项目构建：`npm run build`
-### 该框架支持自动化构建项目目录，工具：dw-admin-app
-> 安装：`npm install -g dw-admin-app`
-> 使用：`dw-admin-app -d project`
+> 服务启动：`npm run server` <br/>
+> 前端项目构建：`npm run build`
 ### 项目合作：
 > business@cdroom.top
